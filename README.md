@@ -112,7 +112,7 @@ This data was generated using Synthea, a synthetic patient generator that models
 10.Categorize BMI values into different categories ('Underweight', 'Healthy', 'Overweight', 'Obese') for patients based on their BMI observations?
 11.Calculate the age at death for patients who have a recorded death date?
 
-### Quality of life assessment 
+### Quality of life prediction 
 
 #### Calculation of Quality adjusted life years (QALYs)
 
