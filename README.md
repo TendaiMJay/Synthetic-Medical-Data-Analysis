@@ -142,6 +142,8 @@ QALYs = Age(Life Years) * HRQL(Utility assigned to the measurement of health-rel
 > 2. Calculate column categorization of heath metrics such as BMI, Blood Pressure, etc. Measures such as mortality rate, age, 
 > 3. Dynamic titles and labels
 
+Interact with dynamic reort here: https://mavenanalytics.io/project/14802
+
 ### Python Analysis
 
 1. **Data Preparation:** 
@@ -158,9 +160,12 @@ QALYs = Age(Life Years) * HRQL(Utility assigned to the measurement of health-rel
 
 ### MS PowerPoint Reporting
 
-Report results are summarized for executive  for stakeholders to easily digest all the results and recommendations that came from the report.
+Report results are summarized for executive  for stakeholders to easily digest all the results and recommendations that came from the report. https://github.com/TendaiMJay/Synthetic-Medical-Data-Analysis/blob/main/Medical%20Data%20Anlaysis.pdf
 
 
 ### Code
 
-For the rest of the code, check the queries ()
+For the rest of the code, check the queries 
+https://github.com/TendaiMJay/Synthetic-Medical-Data-Analysis/blob/main/siyeh_sythetic_medical_data.sql, https://github.com/TendaiMJay/Synthetic-Medical-Data-Analysis/blob/main/QALY_Dataset.sql, https://github.com/TendaiMJay/Synthetic-Medical-Data-Analysis/blob/main/QALY_OLS_reg.ipynb,
+https://github.com/TendaiMJay/Synthetic-Medical-Data-Analysis/blob/main/medicinal_data%20analysis.pbix
+
