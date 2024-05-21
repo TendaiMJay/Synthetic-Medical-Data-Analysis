@@ -154,13 +154,13 @@ QALYs = Age(Life Years) * HRQL(Utility assigned to the measurement of health-rel
 > 2. Use Ordinary Least Squares regression models for HRQL prediction and evaluate performance of model
 
 
-3. **Conclusion**
+## Conclusion
 
-## MS PowerPoint Reporting
+### MS PowerPoint Reporting
 
 Report results are summarized for executive  for stakeholders to easily digest all the results and recommendations that came from the report.
 
 
-## Code
+### Code
 
 For the rest of the code, check the queries ()
