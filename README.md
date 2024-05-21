@@ -166,6 +166,8 @@ Report results are summarized for executive  for stakeholders to easily digest a
 ### Code
 
 For the rest of the code, check the queries 
-https://github.com/TendaiMJay/Synthetic-Medical-Data-Analysis/blob/main/siyeh_sythetic_medical_data.sql, https://github.com/TendaiMJay/Synthetic-Medical-Data-Analysis/blob/main/QALY_Dataset.sql, https://github.com/TendaiMJay/Synthetic-Medical-Data-Analysis/blob/main/QALY_OLS_reg.ipynb,
-https://github.com/TendaiMJay/Synthetic-Medical-Data-Analysis/blob/main/medicinal_data%20analysis.pbix
+> https://github.com/TendaiMJay/Synthetic-Medical-Data-Analysis/blob/main/siyeh_sythetic_medical_data.sql, > > > > 
+> https://github.com/TendaiMJay/Synthetic-Medical-Data-Analysis/blob/main/QALY_Dataset.sql, 
+> https://github.com/TendaiMJay/Synthetic-Medical-Data-Analysis/blob/main/QALY_OLS_reg.ipynb,
+> https://github.com/TendaiMJay/Synthetic-Medical-Data-Analysis/blob/main/medicinal_data%20analysis.pbix
 
