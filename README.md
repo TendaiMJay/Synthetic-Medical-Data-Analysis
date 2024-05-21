@@ -142,7 +142,7 @@ QALYs = Age(Life Years) * HRQL(Utility assigned to the measurement of health-rel
 > 2. Calculate column categorization of heath metrics such as BMI, Blood Pressure, etc. Measures such as mortality rate, age, 
 > 3. Dynamic titles and labels
 
-Interact with dynamic reort here: https://mavenanalytics.io/project/14802
+Interact with dynamic report here: https://mavenanalytics.io/project/14802
 
 ### Python Analysis
 
